@@ -48,6 +48,7 @@ def labels_for_training_data(directory):
 
     return faces, faceID
 
+
 # Calling the Training Classifier #
 
 def train_classifier(faces, faceID):
