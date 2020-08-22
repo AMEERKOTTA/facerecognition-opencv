@@ -36,4 +36,4 @@ while True:
 
     cv2.imshow("face detection", resized_img)
     if cv2.waitKey(10) == ord("q"):
-        break
+        break 
