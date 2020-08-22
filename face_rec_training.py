@@ -31,4 +31,4 @@ resized_img = cv2.resize(test_img, (1000,700))
 
 cv2.imshow("face_detection", resized_img)
 cv2.waitKey(0)
-cv2.destroyAllWindows
+cv2.destroyAllWindows 
